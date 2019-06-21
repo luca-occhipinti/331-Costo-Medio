@@ -36,13 +36,13 @@ Link con instructivo para la instalacion de librerias: https://programminghistor
     pip install StringIO
 
 # Hoja de movimientos:
--La hoja de movimientos de materiales den el periodo detallado debe ocntener solo las clases de movimiento 101 y 561.
--La hoja debe llamarse "Movimientos"
--Las columnas que debe tener obligatoriamente y con los nombres exactos se detallan a continuacion:
-    -Material: PartNumber de pieza o material
-    -Cantidad: Con la cantidad en numero del registro de ingreso o migración (Depende de la clase de movimiento)
-    -Precio unitario: El precio unitario del material en PESOS. Calculo de Importe ML3/Cantidad
-    -Importe Unitario ML3: El precio unitario del material en DOALRES. Calculo de Importe ML3/Cantidad/Tipo de cambio de la fecha de documento de material.
+    -La hoja de movimientos de materiales den el periodo detallado debe ocntener solo las clases de movimiento 101 y 561.
+    -La hoja debe llamarse "Movimientos"
+    -Las columnas que debe tener obligatoriamente y con los nombres exactos se detallan a continuacion:
+        -Material: PartNumber de pieza o material
+        -Cantidad: Con la cantidad en numero del registro de ingreso o migración (Depende de la clase de movimiento)
+        -Precio unitario: El precio unitario del material en PESOS. Calculo de Importe ML3/Cantidad
+        -Importe Unitario ML3: El precio unitario del material en DOALRES. Calculo de Importe ML3/Cantidad/Tipo de cambio de la fecha de         documento de material.
 
 
 
