@@ -54,6 +54,7 @@ Link con instructivo para la instalacion de librerias: https://programminghistor
 
 # Resultado del script:
 El resultado del scrips va a ser una planilla de Excel llamada "Costo medio.xlsx" que va a contener las siguientes columnas:
+
     -Material: PartNumber de la pieza o material
     -Costo medio pesos: El costo medio en PESOS del PartNumber calculado.
     -Costo medio dolares: El costo medio en DOLARES del PartNumber calculado.
