@@ -24,15 +24,20 @@ El contenido de las planillas será:
 
 # Requisitos para ejecucion
 Recomendados:
-    -Anaconda Python (link de desarga: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe)
-La instalacion de Anaconda ya viene con todas las librerias incluidas. Con esta instalacion ya incluye todo lo necesario para ejecutar el script.
 
-Alternativa
+    -Anaconda Python (link de desarga: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe)
+    La instalacion de Anaconda ya viene con todas las librerias incluidas. Con esta instalacion ya incluye todo lo necesario para ejecutar el script.
+
+Alternativa:
+
     -Interprete de Python 3.6.* o superior (link: https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe)
     -Libreria pandas
     -Libreria io
+    
 Con esta alternativa hay que instalar todo por separado para poder ejecutar el script.
-Link con instructivo para la instalacion de librerias: https://programminghistorian.org/es/lecciones/instalar-modulos-python-pip
+Link con instructivo para la instalacion de librerias:
+    
+    https://programminghistorian.org/es/lecciones/instalar-modulos-python-pip
     -Los comandos a instalar luego de hecho este instructivo son:
     pip install pandas
     pip install StringIO
