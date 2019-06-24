@@ -6,7 +6,7 @@
 Impacto de log de remitos en calculo de costo medio de SAPiens, por lo que precisamos una base de Contratos desde NSC histórica para el período 09/2017 a 03/2019 para el cálculo gestional de Valuación del Stock.
 
 # Impacto del problema
-​Impacto en la confibilidad de la informacion contable
+Impacto en la confibilidad de la informacion contable
 
 # Referente de Propuesta
 Daniel Mandrille
@@ -15,8 +15,10 @@ Daniel Mandrille
 
 Procesar dos planillas en formato Excel con un script en lenguaje Python.
 El contenido de las planillas será:
- -Una hoja con los movimientos de materiales desde Octubre 2017 a Marzo 2019.
- -Una hoja con el stock de piezas y sus cantidades.
+
+    -Una hoja con los movimientos de materiales desde Octubre 2017 a Marzo 2019.
+    -Una hoja con el stock de piezas y sus cantidades.
+
 
 # Pre-requisitos
 
